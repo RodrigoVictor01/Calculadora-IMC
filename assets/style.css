@@ -210,7 +210,7 @@ input:hover {
 }
 
 
- @media (min-width: 420px) and (max-width: 520px) {
+ @media (min-width: 410px) and (max-width: 520px) {
 
     header .logo img {
         height: 250px;
