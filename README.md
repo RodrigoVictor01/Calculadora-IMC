@@ -1,6 +1,6 @@
 # Calculadora-IMC
 
-A calculadora de IMC foi criada para facilitar as avaliações corporais dos clientes da [Raphaela Bruna Estética](https://www.instagram.com/raphaelabrunaestetica/), otimizando o tempo de cada avaliação e evitando que o cálculo seja realizado à mão. Além de informar o IMC do paciente, a calculadora indica se ele está abaixo, acima ou com o seu peso corporal normal. Caso seu peso corporal não esteja normal, ela indica um peso corporal médio.
+A calculadora de IMC foi criada para facilitar as avaliações corporais dos pacientes da [Raphaela Bruna Estética](https://www.instagram.com/raphaelabrunaestetica/), otimizando o tempo de cada avaliação e evitando que o cálculo seja realizado à mão. Além de informar o IMC do paciente, a calculadora indica se ele está abaixo, acima ou com o seu peso corporal normal. Caso seu peso corporal não esteja normal, ela indica um peso corporal médio.
 
 Tela inicial:
 ![Tela inicial](https://user-images.githubusercontent.com/101594080/185667731-1606040d-b9cf-44e9-95a4-1d9946a666b1.png)
