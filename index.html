@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,  user-scalable=no">
+    <link rel="stylesheet" href="./assets/style.css">
+    <title>Calculadora IMC</title>
+</head>
+
+<body>
+
+    <header>
+        <div class="logo">
+            <a href="https://instagram.com/raphaelabrunaestetica" target="_blank"> 
+            <img src="./assets/images/logo.png" alt="Raphaela Bruna Estética">
+        </a>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="title">
+            <h1>Cálculo IMC</h1>
+        </div>
+
+
+        <div class="box">
+
+            <div class="altura">
+                <label>Altura (m)</label>
+                <input type="text" id="altura" maxlength="4" minlength="4">
+            </div>
+            <div class="peso">
+                <label>Peso (Kg)</label>
+                <input type="text" id="peso" maxlength="3" minlength="2">
+            </div>
+
+            <div class="button">
+                <input type="submit" value="CALCULAR" onclick="calcular()"></input>
+            </div>
+
+
+            <div class="result">
+                <h1 id="resultImcNumber"></h1>
+                <p id="resultImc"></p>
+                <p id="pesoIdeal"></p>
+            </div>
+
+
+        </div>
+
+
+
+    </div>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
